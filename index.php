@@ -21,6 +21,7 @@
             <li class="list-group-item"><a href="5-boucles.php">boucles</a></li>
             <li class="list-group-item"><a href="6-tableaux.php">tableaux</a></li>
             <li class="list-group-item"><a href="7-fonctions.php">fonctions</a></li>
+            <li class="list-group-item"><a href="/8-inclusions">inclusions</a></li>
         </ul>
     </div>
   </body>
